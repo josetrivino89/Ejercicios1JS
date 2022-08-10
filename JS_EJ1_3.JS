@@ -1,0 +1,1 @@
+let number1 = 3 ; let number2 = 5 ; document.write(number1+number2)

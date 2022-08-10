@@ -1,0 +1,1 @@
+window.alert("Este es un msj")
